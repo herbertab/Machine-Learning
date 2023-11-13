@@ -1,4 +1,4 @@
-# Previsão de Churn em Clientes
+# Previsão de Churn utilizando deep learning
 
 ## Descrição
 Este projeto se concentra na previsão de churn de clientes por meio de um modelo de aprendizado de máquina. Utiliza-se um conjunto de dados que inclui informações de clientes e suas transações.
